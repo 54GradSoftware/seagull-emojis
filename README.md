@@ -33,4 +33,3 @@ License: [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creat
 ![Sweat](APNG-Mastodon/Gull_Worry_Sweat.png)
 
 ![Yay](APNG-Mastodon/Gull_Yay.png)
-()
